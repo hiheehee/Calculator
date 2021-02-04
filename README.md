@@ -1,7 +1,6 @@
 Eclipse의 플러그인 windowbuilder를 사용해 계산기를 만들었다.
 계산기의 형태는 Google에 계산기를 검색했을 때 나오는 다음 그림을 참고했다.
-
-
+![다운로드](https://user-images.githubusercontent.com/49300728/106906397-79904d00-6740-11eb-9eb0-1031723f992d.png)
 내가 완성한 계산기의 모습은 다음과 같다.
 
 * * *
