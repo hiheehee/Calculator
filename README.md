@@ -1,3 +1,13 @@
+# Calculator
+Java Project
+-----------------------------
+# Overview
+* Organization : None  
+* Project Title : 계산기
+* Project Description : Eclipse의 플러그인 windowbuilder를 사용한 계산기 구현
+* Author : 황규희  
+* Date : 2021.01.01 - 2021.01.04
+-----------------------------------------
 Eclipse의 플러그인 windowbuilder를 사용했다.  
 계산기의 형태는 Google에 계산기를 검색했을 때 나오는 계산기 참고했다.
 
